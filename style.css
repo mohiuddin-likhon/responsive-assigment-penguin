@@ -1,0 +1,44 @@
+body{
+    font-family: 'Roboto', sans-serif;
+
+}
+ 
+.header-title{
+    font-family: Bebas Neue;
+    font-size: 80px;
+}
+.section-title{
+    
+    font-family: Bebas Neue;
+    font-size: 26px;
+}
+.card-img-box{
+    height: 334px;
+    width: auto;
+    position: relative;
+    background-color: rgb(224, 224, 222);
+    border-radius: 25px;
+    
+    
+}
+.card{
+    border-radius: 25px;
+}
+.card-img-box img{
+    width: auto;
+    height: 90%;
+    padding: 20px;
+   
+}
+
+.penguin-card{
+    border: 0;
+
+}
+.penguin-footer{
+    background-color: white;
+    border: 0;
+}
+@media (min-width: 576px) { 
+    
+ }
